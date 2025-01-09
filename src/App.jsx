@@ -9,7 +9,7 @@ import Section from "./modules/Section";
 const App = () => {
   const contentArray = [
     [
-      { name: "Ravi", title: "Student", profilepic: "./css1.jpg" },
+      { name: "Ravi", title: "Student test", profilepic: "./css1.jpg" },
       { name: "Puja", title: "Student", profilepic: "./css2.jpg" },
       { name: "Ashok", title: "Student", profilepic: "./css3.jpg" },
     ],
